@@ -1,0 +1,17 @@
+<h1> New Tag </h1>
+
+<%= form_with scope: :tag, url: tags_path, local: true do |form| %>
+    <p>
+      <%= form.label :created_after %><br>
+      <%= form.datetime_field :created_after %>
+  </p>
+
+  <p>
+    <%= form.label :tag %><br>
+    <%= form.text_field :tag %>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
