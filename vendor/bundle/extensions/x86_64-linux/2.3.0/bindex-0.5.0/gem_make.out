@@ -1,0 +1,15 @@
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby2.3 -r ./siteconf20171006-20681-1b5tg0a.rb extconf.rb
+creating Makefile
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20171006-20681-14h48j4/bindex

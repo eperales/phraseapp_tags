@@ -1,0 +1,15 @@
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/bin/ruby2.3 -r ./siteconf20171006-20681-8e4hty.rb extconf.rb
+creating Makefile
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/eperales/wuaki/projects/phraseapp_tags/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20171006-20681-jb7iat
